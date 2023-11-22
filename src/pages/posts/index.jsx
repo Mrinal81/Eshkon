@@ -1,4 +1,4 @@
-import React from 'react'
+import {useState} from 'react'
 import {client} from '../../lib/contentful/client'
 import PostCard from '../../components/posts/PostCard'
 import Search from '../../components/Search'
