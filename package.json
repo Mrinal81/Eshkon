@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.19.0",
+    "@contentful/rich-text-types": "^16.0.2",
+    "algoliasearch": "^4.20.0",
+    "contentful": "^10.6.12",
+    "next": "^14.0.3",
+    "node-sass": "^9.0.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.3"
+    "sass-loader": "^13.3.2"
   },
   "devDependencies": {
     "eslint": "^8",
-    "eslint-config-next": "14.0.3"
+    "eslint-config-next": "^14.0.3",
+    "sass": "^1.69.5"
   }
 }
