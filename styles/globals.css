@@ -131,3 +131,11 @@ nav ul li{
 .prose{
   position: relative;
 }
+.th{
+  display: flex;
+  justify-content: center;
+}
+.title-heading h3{
+  font-size: 18px;
+  color: gray;
+}
